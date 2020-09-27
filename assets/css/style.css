@@ -1,0 +1,41 @@
+@font-face {
+    font-family: 'Roboto Mono', monospace;
+    src: url(/fonts/RobotoMono-VariableFont_wght.ttf);
+  }
+  
+
+body {
+    background-color: #1E1E1E;
+    color: #FFFFFF;
+    text-align: center;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 1.3rem;
+}
+
+.jumbotron {
+    background-color: #1E1E1E;
+    border: 2px solid white;
+}
+
+#profile {
+    width: 10rem;
+    height: auto;
+}
+
+.container {
+    width: 50%;
+    margin-top: 10%;
+}
+
+#header {
+    padding-bottom: 20px;
+}
+
+#nav a {
+    background-color: #1E1E1E;
+    color: white; 
+}
+
+.fab {
+    color: white;
+}
